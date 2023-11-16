@@ -4,4 +4,3 @@
 - 📈趋势榜:Github每日/周/月实时榜单
 - 📚期刊:精选最新开源项目,提供周刊/月刊/专栏等期刊文章 
 
-<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />

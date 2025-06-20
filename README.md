@@ -6,4 +6,4 @@
 
 **关注我们:**
 
-<img class="avatar-img " style="width:450px;height:250px;" src="contact.png" alt=""></span>[![OpenGithubs's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenGithubs&show_icons=true)](https://github.com/OpenGithubs/OpenGithubs)
+<img class="avatar-img " style="width:400px;height:220px;" src="contact.png" alt=""></span>[![OpenGithubs's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenGithubs&show_icons=true)](https://github.com/OpenGithubs/OpenGithubs)

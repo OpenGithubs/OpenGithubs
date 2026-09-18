@@ -8,11 +8,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OpenGithubs&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OpenGithubs&theme=holi&utcOffset=0)
 
-<div align="center">
-  <a href="https://commit-history.com/OpenGithubs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/OpenGithubs?theme=dark" />
-      <img alt="OpenGithubs's commit history" src="https://commit-history.com/embed/OpenGithubs" />
-    </picture>
-  </a>
-</div>
+

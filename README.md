@@ -6,9 +6,7 @@
 - 📈趋势榜:Github每日/周/月实时榜单
 - 📚期刊:精选最新开源项目,提供周刊/月刊/专栏等期刊文章
 
-**关注我们:**
-
-<img class="avatar-img " style="width:400px;height:220px;" src="contact.png" alt="">
+<img class="avatar-img " style="width:300px;height:150px;" src="contact.png" alt="">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OpenGithubs&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OpenGithubs&theme=holi)
